@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksr:home|Door43 (ksr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksr|d43-ksr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksr/archive/master.zip|d43-ksr.zip]]
+
+**Recent Changes**
+{{changes>ns = ksr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksr|Ethnologue data]]
+
